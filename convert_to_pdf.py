@@ -1,5 +1,5 @@
 import os
-import win32com.client as win32
+import win32com.client as win32 # type: ignore
 from pathlib import Path
 
 def batch_word_to_pdf():
