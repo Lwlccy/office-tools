@@ -4,7 +4,7 @@ from google import genai
 from google.genai import types
 
 # ================= ⚙️ 配置区 =================
-API_KEY = "sk-iSs9beacc5a664f4a0e9d7572971082efb6ad603d56bVpeQ"
+API_KEY = "api_key"
 API_BASE_URL = "https://api.gptsapi.net"
 
 PROJECT_ROOT = "../Math_Question_Bank"

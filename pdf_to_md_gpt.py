@@ -5,7 +5,7 @@ import httpx # 引入底层网络库
 from openai import OpenAI
 
 # ================= ⚙️ 配置区 =================
-API_KEY = "sk-iSs9beacc5a664f4a0e9d7572971082efb6ad603d56bVpeQ"
+API_KEY = "api_key"
 API_BASE_URL = "https://api.gptsapi.net/v1" 
 MODEL_NAME = "gpt-4o"
 

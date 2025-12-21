@@ -8,7 +8,7 @@ os.environ["http_proxy"] = "http://127.0.0.1:7890"
 os.environ["https_proxy"] = "http://127.0.0.1:7890"
 
 # ================= ⚙️ 配置区 =================
-API_KEY = "AIzaSyCxUqmWepe5UxSfGeCaS7Hf99ttsj6Otwo"  # <--- 别忘了检查这里
+API_KEY = "你的api_key"  # <--- 别忘了检查这里
 
 PROJECT_ROOT = "../Math_Question_Bank"
 INPUT_FOLDER = os.path.join(PROJECT_ROOT, "_Work_Bench/PDF_Source")
