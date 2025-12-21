@@ -6,7 +6,7 @@ os.environ["http_proxy"] = "http://127.0.0.1:7890"
 os.environ["https_proxy"] = "http://127.0.0.1:7890"
 
 # 2. API Key
-genai.configure(api_key="AIzaSyCxUqmWepe5UxSfGeCaS7Hf99ttsj6Otwo")
+genai.configure(api_key="api_key")
 
 print("正在查询可用模型列表...")
 
